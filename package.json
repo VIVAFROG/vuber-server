@@ -1,0 +1,16 @@
+{
+  "name": "vuber-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VIVAFROG/vuber-server.git",
+  "author": "VIVAFROG <vivafrog@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.12.21",
+    "nodemon": "^1.18.9",
+    "ts-node": "^8.0.2",
+    "tslint-config-prettier": "^1.17.0",
+    "typescript": "^3.3.1"
+  }
+}
